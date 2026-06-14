@@ -1,6 +1,6 @@
 # [CF-Server-Monitor](https://github.com/huilang-me/CF-Server-Monitor)
 
-**版本：V2.6.1**
+**版本：V2.6.12**
 
 V2.6.0降低了 **50%** 的D1写入消耗，强烈建议升级，升级后请在后台手动点击 **升级数据库** 或者 **重建数据库** 。
 
