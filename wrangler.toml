@@ -34,6 +34,7 @@ new_sqlite_classes = ["MetricsBroadcaster"]
 
 [vars]
 
+
 [build]
 command = "npm run build:frontend"
 
