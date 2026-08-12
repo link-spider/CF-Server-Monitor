@@ -6,6 +6,7 @@
   "scripts": {
     "dev": "wrangler dev",
     "deploy": "npm run build:frontend && wrangler deploy",
+    "deploy:preview": "wrangler versions upload",
     "tail": "wrangler tail",
     "dev:frontend": "vite",
     "build": "node scripts/build.js",
