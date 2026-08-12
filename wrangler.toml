@@ -23,7 +23,6 @@ database_name = "server-monitor-db"
 
 # Preview 部署配置
 [previews]
-[previews_base_config]
 deploy_command = "npx wrangler versions upload"
 
 # Durable Objects：实时指标广播中心
